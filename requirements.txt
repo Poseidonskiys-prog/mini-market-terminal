@@ -1,0 +1,4 @@
+# Only needed for --live mode. Simulated mode uses the standard library.
+yfinance>=0.2
+# Windows only (curses is not bundled there):
+windows-curses; sys_platform == "win32"
