@@ -3,7 +3,7 @@
 A small Bloomberg-style market dashboard, built twice: as a Python terminal app and as a single-file web app.
 
 - **Terminal app** (`mini_market_terminal.py`): Python and `curses`, standard library only.
-- **Web app** (`docs/index.html`): vanilla HTML, CSS and JavaScript. Live demo: https://YOUR-USERNAME.github.io/mini-market-terminal/
+- **Web app** (`docs/index.html`): vanilla HTML, CSS and JavaScript. Live demo: https://Poseidonskiys-prog.github.io/mini-market-terminal/
 
 > By default, prices are **simulated** with a seeded random walk. They are not real market data.
 
